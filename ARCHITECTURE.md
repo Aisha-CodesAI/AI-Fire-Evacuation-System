@@ -5,11 +5,6 @@
 ## Overview
 This project follows a layered architecture for real-time fire detection and evacuation guidance.
 
----
-
-## 📊 Architecture Diagram
-
-![Architecture](architecture diagram.jpeg)
 
 ---
 
