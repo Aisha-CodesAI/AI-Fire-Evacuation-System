@@ -9,7 +9,7 @@ This project follows a layered architecture for real-time fire detection and eva
 
 ## 📊 Architecture Diagram
 
-![Architecture](architecture.png)
+![Architecture](architecture diagram.jpeg)
 
 ---
 
