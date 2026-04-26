@@ -135,6 +135,4 @@ This project is built using the **Base44  AI platform**, and focuses on system d
 
 ## 📜 License
 This project is created for educational and hackathon purposes.
-## 📸 Screenshots
 
-(Add your images after uploading)
