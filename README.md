@@ -3,139 +3,138 @@ AI-powered fire detection and smart evacuation system using computer vision and 
 # 🔥 AI Fire Evacuation System (AION Evacuate)
 
 ## 🚀 Overview
-AION Evacuate is an AI-powered emergency system that detects fire in real-time using computer vision and generates the safest evacuation path using a building blueprint.
+AION Evacuate is an AI-powered emergency system that detects fire in real-time using computer vision and provides the safest evacuation path using a building blueprint.
 
-The system works with multiple input sources like webcam, images, videos, and screen capture, making it suitable for real-world environments such as colleges, hospitals, and public spaces.
+This project is built using the **Base44 low-code AI platform**, focusing on real-time detection, smart evacuation, and intelligent guidance.
 
 ---
 
 ## 🎯 Problem Statement
-In fire emergencies, people panic and do not know the safest exit route. Traditional alarms only alert but do not guide.
+In fire emergencies, people panic and do not know the safest exit route. Traditional alarm systems only alert but do not guide users.
 
 ---
 
 ## 💡 Solution
-This system:
+We developed an intelligent system that:
 - Detects fire using AI
 - Maps fire location on a real blueprint
 - Generates a safe evacuation path
-- Gives voice alerts
-- Provides AI-based guidance
+- Provides real-time voice alerts
+- Assists users using AI guidance
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 ### 🔥 Fire Detection
-- Webcam (live)
-- Uploaded images
-- Uploaded videos
-- YouTube videos
-- Screen capture (detect from screen)
+- Live Webcam detection  
+- Uploaded image detection  
+- Video detection  
+- YouTube video detection  
+- Screen capture detection (detects from live screen)
 
 ---
 
-### 🗺️ Evacuation Map
-- Uses real blueprint (floor plan)
-- Shows:
-  - 🔴 Fire location
-  - 🔵 User location
-  - 🟢 Safe path
-  - 🟡 Exit points
+### 🗺️ Smart Evacuation Map
+- Uses real blueprint (college floor plan)
+- Displays:
+  - 🔴 Fire location  
+  - 🔵 User position  
+  - 🟢 Safe path  
+  - 🟡 Exit points  
+- Automatically avoids dangerous areas
 
 ---
 
 ### 🎥 Camera System
-- Real webcam
-- Uploaded images (simulate CCTV)
-- Video input
-- Detection shown directly on camera feed
+- Real webcam integration  
+- Uploaded images (simulate CCTV)  
+- Video-based detection  
+- Real-time detection overlay  
 
 ---
 
-### 🔊 Voice Alerts
-- Real-time alerts using text-to-speech
+### 🔊 Voice Alert System
+- Generates real-time alerts  
 - Example:
-  Fire detected. Please follow the evacuation route.
+  > Fire detected. Please follow the evacuation route immediately.
 
 ---
 
 ### 🤖 AI Assistant
-- Voice + text interaction
-- Answers safety questions
-- Guides user to exits
+- Voice + text interaction  
+- Provides emergency guidance  
+- Answers user queries  
 
 ---
 
 ## 🧠 Tech Stack
-- Python
-- Streamlit
-- OpenCV
+- Base44 (App Development)
+- Python (logic layer)
+- OpenCV (Computer Vision)
 - NumPy
-- Gemini API
-- gTTS (voice)
+- Gemini API (AI Assistant)
+- gTTS (Voice Alerts)
 
 ---
 
-## 📂 Project Structure
-project/ ├── app.py ├── fire_ai.py ├── evacuation_ai.py ├── chatbot.py ├── utils.py ├── video_source.py ├── requirements.txt ├── README.md
+## 🖥️ How It Works
+1. Upload building blueprint  
+2. Select camera input (webcam/image/video/screen)  
+3. AI detects fire  
+4. Fire location is mapped on blueprint  
+5. Safe evacuation path is generated  
+6. Voice alert + AI assistant guides the user  
 
 ---
+## Screenshots
+---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone Repository
-git clone https://github.com/Aisha-CodesAI/AI-Fire-Evacuation-System.git⁠� cd AI-Fire-Evacuation-System
-
-### 2. Install Requirements
-pip install -r requirements.txt
-
-### 3. Add API Key
-Create `.env` file:
-GEMINI_API_KEY=your_api_key_here
-
-### 4. Run App
-streamlit run app.py
+## 🌐 Live Application (MVP)
+👉 Add your Base44 app link here  
 
 ---
 
 ## 🎥 Demo Video
-(Add your 3-minute demo link here)
-
----
-
-## 🌐 Live MVP
-(Add your deployed app link here)
+👉 Add your 3-minute demo video link here  
 
 ---
 
 ## 👥 Team Members
-- Aisha Erum – AI & Backend
-- [Mahira Firdous] – Frontend/UI
-- [Zoya Akbar] – Integration
+- Aisha Erum – AI & Backend  
+- Zoya Akbar– Frontend/UI  
+- Mahira Firdous – Integration  
 
 ---
 
 ## 🚀 Future Scope
-- Better AI model (YOLO)
-- Mobile app
-- Crowd detection
-- IoT integration
+- YOLO-based high accuracy detection  
+- Mobile application  
+- Real-time user tracking  
+- IoT integration  
+- Crowd detection system  
 
 ---
 
 ## 🏆 Impact
-Can be used in:
-- Colleges
-- Hospitals
-- Hotels
-- Offices
+This system can be used in:
+- Colleges  
+- Hospitals  
+- Hotels  
+- Offices  
+- Public spaces  
 
-Helps people evacuate safely during emergencies.
+👉 Helps save lives by guiding people safely during emergencies  
+
+---
+
+## 📌 Note
+This project is built using the **Base44  AI platform**, and focuses on system design, AI integration, and real-time functionality rather than traditional coding approaches.
 
 ---
 
-## 📌 Conclusion
-This is not just a fire detection system, but an intelligent evacuation system that guides users in real-time.
+## 📜 License
+This project is created for educational and hackathon purposes.
+## 📸 Screenshots
 
----
+(Add your images after uploading)
