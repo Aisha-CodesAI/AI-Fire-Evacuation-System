@@ -86,6 +86,8 @@ We developed an intelligent system that:
 5. Safe evacuation path is generated  
 6. Voice alert + AI assistant guides the user  
 
+Fire detection module is implemented using OpenCV/YOLO and demonstrated in the demo video.
+Due to platform constraints, it is currently shown as a separate module but is designed for seamless integration.
 ---
 ## Screenshots
 ---
