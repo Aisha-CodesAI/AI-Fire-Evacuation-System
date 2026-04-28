@@ -98,7 +98,8 @@ Due to platform constraints, it is currently shown as a separate module but is d
 ---
 
 ## 🎥 Demo Video
-👉 Add your 3-minute demo video link here  
+  https://drive.google.com/file/d/1aoZLuhHLYWPHhNj5n_KMKeauddTNKzl3/view?usp=drivesdk
+  
 
 ---
 
